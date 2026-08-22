@@ -8,5 +8,7 @@ print("Azza:",24,"Years old")
 print("python",end =" ")
 print("The basic of AI")
 
-#I used the end parameter and set its value to a space so that the two statements appear on the same line with a space between them instead of starting a new line
+#I used the end parameter and set its value to a space
+#so that the two statements appear on the same line 
+#with a space between them instead of starting a new line
 

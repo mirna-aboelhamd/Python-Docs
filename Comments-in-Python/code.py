@@ -1,6 +1,8 @@
-#comments --> This is the first type of comment using # at the beginning of the line before the text
+#comments --> This is the first type of comment using # at the beginning 
+#of the line before the text
 
-print("Python is basic of AI") #This is a comment on the same line after the code that is being executed
+print("Python is basic of AI") #This is a comment on the same line after the code 
+#that is being executed
 
 #This is a multi line comment 
 #using the only official way 
